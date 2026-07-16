@@ -1,0 +1,25 @@
+# Arduino / ESP32 build outputs
+build_*/
+*.bin
+*.elf
+*.map
+*.o
+*.d
+*.bootloader.bin
+*.partitions.bin
+compile_commands.json
+build.options.json
+libraries.cache
+includes.cache
+file_opts
+partitions.csv
+*.ipch
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Optional local docs tooling
+.report_tools/node_modules/
+
