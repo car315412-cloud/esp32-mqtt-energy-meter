@@ -1,6 +1,6 @@
 # esp32-mqtt-energy-meter
 
-作者：傅貴煒
+作者：富貴
 
 這是一個以 **ESP32 / ESP32-CAM / MQTT / Node-RED / OLED / 感測器 / 智慧電表** 為主軸整理出的專題成果倉庫。  
 內容涵蓋從基礎 GPIO、RGB LED、PIR 感測、OLED 顯示、Wi-Fi / NTP / HTTP、MQTT 通訊，到即時影像、智慧電表、Node-RED 儀表板與手機 APP 互動控制的完整流程。
